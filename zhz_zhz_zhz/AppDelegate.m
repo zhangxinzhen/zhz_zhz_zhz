@@ -18,9 +18,13 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     NSLog(@"这特么就是一个测试的项目");
     NSLog(@"这特么就是一个测试的项目1");
+<<<<<<< HEAD
     NSLog(@"这特么就是一个测试的项目2");
     NSLog(@"这特么就是一个测试的项目3");
-    NSLog(@"这特么就是一个测试的项目4");
+ 
+=======
+
+>>>>>>> parent of 32bab80... 2
 
     return YES;
 }
