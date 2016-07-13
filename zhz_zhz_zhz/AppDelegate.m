@@ -18,8 +18,8 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     NSLog(@"这就是一个测试项目");
     NSLog(@"这特么就是一个测试的项目1");
-    NSLog(@"这特么就是一个测试的项目2");
-    NSLog(@"这特么就是一个测试的项目3");
+
+
 
     return YES;
 }
