@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"sourceTree");
+    NSLog(@"test tree");
 
 }
 
