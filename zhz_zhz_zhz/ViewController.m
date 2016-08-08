@@ -19,6 +19,8 @@
     
     NSLog(@"git分支test1");
     
+    NSLog(@"测试SourceTree");
+    NSLog(@"测试GitHup");
 
 }
 
