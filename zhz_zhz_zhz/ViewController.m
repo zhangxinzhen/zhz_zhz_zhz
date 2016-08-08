@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"测试SourceTree");
+    NSLog(@"测试GitHup");
 
 }
 
