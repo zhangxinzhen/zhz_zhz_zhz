@@ -18,6 +18,8 @@
     [super viewDidLoad];
     NSLog(@"sourceTree");
     NSLog(@"test tree");
+    NSLog(@"测试SourceTree");
+    NSLog(@"测试GitHup");
 
 }
 
